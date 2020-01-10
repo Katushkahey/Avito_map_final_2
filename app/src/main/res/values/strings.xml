@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ivanova Kate</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="choose_the_service">Choose the service</string>
+    <string name="service">service</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+</resources>
